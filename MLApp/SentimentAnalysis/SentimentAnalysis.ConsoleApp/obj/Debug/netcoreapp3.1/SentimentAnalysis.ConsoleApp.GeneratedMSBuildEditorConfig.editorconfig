@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SentimentAnalysis.ConsoleApp
+build_property.ProjectDir = /Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.ConsoleApp/

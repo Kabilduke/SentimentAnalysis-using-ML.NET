@@ -1,0 +1,11 @@
+/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/bin/Debug/netstandard2.0/MLModel.zip
+/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/bin/Debug/netstandard2.0/SentimentAnalysis.Model.deps.json
+/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/bin/Debug/netstandard2.0/SentimentAnalysis.Model.dll
+/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/bin/Debug/netstandard2.0/SentimentAnalysis.Model.pdb
+/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/obj/Debug/netstandard2.0/SentimentAnalysis.Model.csproj.AssemblyReference.cache
+/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/obj/Debug/netstandard2.0/SentimentAnalysis.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/obj/Debug/netstandard2.0/SentimentAnalysis.Model.AssemblyInfoInputs.cache
+/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/obj/Debug/netstandard2.0/SentimentAnalysis.Model.AssemblyInfo.cs
+/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/obj/Debug/netstandard2.0/SentimentAnalysis.Model.csproj.CoreCompileInputs.cache
+/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/obj/Debug/netstandard2.0/SentimentAnalysis.Model.dll
+/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/obj/Debug/netstandard2.0/SentimentAnalysis.Model.pdb

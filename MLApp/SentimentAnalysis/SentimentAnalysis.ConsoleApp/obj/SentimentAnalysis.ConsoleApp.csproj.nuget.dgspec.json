@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.ConsoleApp/SentimentAnalysis.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.ConsoleApp/SentimentAnalysis.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.ConsoleApp/SentimentAnalysis.ConsoleApp.csproj",
+        "projectName": "SentimentAnalysis.ConsoleApp",
+        "projectPath": "/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.ConsoleApp/SentimentAnalysis.ConsoleApp.csproj",
+        "packagesPath": "/Users/kabil/.nuget/packages/",
+        "outputPath": "/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.ConsoleApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kabil/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/SentimentAnalysis.Model.csproj": {
+                "projectPath": "/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/SentimentAnalysis.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.27, 3.1.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/SentimentAnalysis.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/SentimentAnalysis.Model.csproj",
+        "projectName": "SentimentAnalysis.Model",
+        "projectPath": "/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/SentimentAnalysis.Model.csproj",
+        "packagesPath": "/Users/kabil/.nuget/packages/",
+        "outputPath": "/Users/kabil/Desktop/ML.Net/MLApp/SentimentAnalysis/SentimentAnalysis.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kabil/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
